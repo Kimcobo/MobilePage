@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MobilePage/static/css/main.fb4f1861.css",
+    "main.js": "/MobilePage/static/js/main.d222d4e6.js",
+    "static/js/453.86c0bbb9.chunk.js": "/MobilePage/static/js/453.86c0bbb9.chunk.js",
+    "static/media/review.jpg": "/MobilePage/static/media/review.c3d4379deaebcd39ff98.jpg",
+    "static/media/main.jpg": "/MobilePage/static/media/main.ddfdeefc6bab7f626bf8.jpg",
+    "static/media/event2.jpg": "/MobilePage/static/media/event2.9e3b7301764fe7f6d82f.jpg",
+    "static/media/slick.svg": "/MobilePage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MobilePage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MobilePage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/MobilePage/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/MobilePage/index.html",
+    "main.fb4f1861.css.map": "/MobilePage/static/css/main.fb4f1861.css.map",
+    "main.d222d4e6.js.map": "/MobilePage/static/js/main.d222d4e6.js.map",
+    "453.86c0bbb9.chunk.js.map": "/MobilePage/static/js/453.86c0bbb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4f1861.css",
+    "static/js/main.d222d4e6.js"
+  ]
+}
